@@ -1,4 +1,4 @@
-# P3 – SQL: LLM Usage & Automation Desire (WORKBank)
+# SQL Portfolio: LLM Usage & Automation Desire (WORKBank)
 
 ## Business Question
 Người lao động đang dùng LLM (ChatGPT, Claude…) trong công việc có mong muốn AI tự động hóa công việc của họ nhiều hơn hay ít hơn so với người ít/không dùng? Trong 9 loại tác vụ dùng LLM, loại nào liên hệ mạnh nhất với automation desire?
